@@ -1,0 +1,9 @@
+*.pyc
+.DS_Store
+venv
+venv/
+.venv
+.vscode/
+__pycache__/
+config.ini
+data/

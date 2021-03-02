@@ -1,0 +1,2121 @@
+[
+    {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Wed Feb 24 21:32:00 +0000 2021",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 1304794047811325956,
+                    "id_str": "1304794047811325956",
+                    "indices": [
+                        0,
+                        10
+                    ],
+                    "name": "dinosaur",
+                    "screen_name": "dinoman_j"
+                }
+            ]
+        },
+        "favorite_count": 5677,
+        "favorited": false,
+        "geo": null,
+        "id": 1364689558978371584,
+        "id_str": "1364689558978371584",
+        "in_reply_to_screen_name": "dinoman_j",
+        "in_reply_to_status_id": 1364683096524742657,
+        "in_reply_to_status_id_str": "1364683096524742657",
+        "in_reply_to_user_id": 1304794047811325956,
+        "in_reply_to_user_id_str": "1304794047811325956",
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "retweet_count": 83,
+        "retweeted": false,
+        "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+        "text": "@dinoman_j a follow is how you say \"I love you\" in dinosaur right?",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Feb 20 14:35:54 +0000 2007",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "What's happening?!",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "about.twitter.com",
+                            "expanded_url": "https://about.twitter.com/",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/TAXQpsHa5X"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 6361,
+            "follow_request_sent": false,
+            "followers_count": 59274446,
+            "following": false,
+            "friends_count": 10,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 783214,
+            "id_str": "783214",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 87066,
+            "location": "everywhere",
+            "name": "Twitter",
+            "notifications": false,
+            "profile_background_color": "ACDED6",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/783214/1613754918",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1354479643882004483/Btnfm47p_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1354479643882004483/Btnfm47p_normal.jpg",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "F6F6F6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "Twitter",
+            "statuses_count": 14150,
+            "time_zone": null,
+            "translator_type": "regular",
+            "url": "https://t.co/TAXQpsHa5X",
+            "utc_offset": null,
+            "verified": true
+        }
+    },
+    {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Wed Feb 24 16:53:04 +0000 2021",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 1111481441412698114,
+                    "id_str": "1111481441412698114",
+                    "indices": [
+                        0,
+                        9
+                    ],
+                    "name": "Jenn7399",
+                    "screen_name": "jenn7399"
+                }
+            ]
+        },
+        "favorite_count": 710,
+        "favorited": false,
+        "geo": null,
+        "id": 1364619365778399234,
+        "id_str": "1364619365778399234",
+        "in_reply_to_screen_name": "jenn7399",
+        "in_reply_to_status_id": 1364613293571153921,
+        "in_reply_to_status_id_str": "1364613293571153921",
+        "in_reply_to_user_id": 1111481441412698114,
+        "in_reply_to_user_id_str": "1111481441412698114",
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "retweet_count": 23,
+        "retweeted": false,
+        "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+        "text": "@jenn7399 YES to Mr. Teddy",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Feb 20 14:35:54 +0000 2007",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "What's happening?!",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "about.twitter.com",
+                            "expanded_url": "https://about.twitter.com/",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/TAXQpsHa5X"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 6361,
+            "follow_request_sent": false,
+            "followers_count": 59274446,
+            "following": false,
+            "friends_count": 10,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 783214,
+            "id_str": "783214",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 87066,
+            "location": "everywhere",
+            "name": "Twitter",
+            "notifications": false,
+            "profile_background_color": "ACDED6",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/783214/1613754918",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1354479643882004483/Btnfm47p_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1354479643882004483/Btnfm47p_normal.jpg",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "F6F6F6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "Twitter",
+            "statuses_count": 14150,
+            "time_zone": null,
+            "translator_type": "regular",
+            "url": "https://t.co/TAXQpsHa5X",
+            "utc_offset": null,
+            "verified": true
+        }
+    },
+    {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Wed Feb 24 16:33:34 +0000 2021",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 15317615,
+                    "id_str": "15317615",
+                    "indices": [
+                        0,
+                        16
+                    ],
+                    "name": "Austin Pets Alive!",
+                    "screen_name": "austinpetsalive"
+                }
+            ]
+        },
+        "favorite_count": 638,
+        "favorited": false,
+        "geo": null,
+        "id": 1364614457914241024,
+        "id_str": "1364614457914241024",
+        "in_reply_to_screen_name": "austinpetsalive",
+        "in_reply_to_status_id": 1364608856836370439,
+        "in_reply_to_status_id_str": "1364608856836370439",
+        "in_reply_to_user_id": 15317615,
+        "in_reply_to_user_id_str": "15317615",
+        "is_quote_status": false,
+        "lang": "und",
+        "place": null,
+        "retweet_count": 13,
+        "retweeted": false,
+        "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+        "text": "@austinpetsalive 💙",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Feb 20 14:35:54 +0000 2007",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "What's happening?!",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "about.twitter.com",
+                            "expanded_url": "https://about.twitter.com/",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/TAXQpsHa5X"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 6361,
+            "follow_request_sent": false,
+            "followers_count": 59274446,
+            "following": false,
+            "friends_count": 10,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 783214,
+            "id_str": "783214",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 87066,
+            "location": "everywhere",
+            "name": "Twitter",
+            "notifications": false,
+            "profile_background_color": "ACDED6",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/783214/1613754918",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1354479643882004483/Btnfm47p_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1354479643882004483/Btnfm47p_normal.jpg",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "F6F6F6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "Twitter",
+            "statuses_count": 14150,
+            "time_zone": null,
+            "translator_type": "regular",
+            "url": "https://t.co/TAXQpsHa5X",
+            "utc_offset": null,
+            "verified": true
+        }
+    },
+    {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Wed Feb 24 16:23:06 +0000 2021",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 1340949971353432064,
+                    "id_str": "1340949971353432064",
+                    "indices": [
+                        0,
+                        14
+                    ],
+                    "name": "janet",
+                    "screen_name": "djarinculture"
+                }
+            ]
+        },
+        "favorite_count": 378,
+        "favorited": false,
+        "geo": null,
+        "id": 1364611823962640391,
+        "id_str": "1364611823962640391",
+        "in_reply_to_screen_name": "djarinculture",
+        "in_reply_to_status_id": 1364610320321421314,
+        "in_reply_to_status_id_str": "1364610320321421314",
+        "in_reply_to_user_id": 1340949971353432064,
+        "in_reply_to_user_id_str": "1340949971353432064",
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "retweet_count": 5,
+        "retweeted": false,
+        "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+        "text": "@djarinculture MISSED YOU ON OUR TIMELINE",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Feb 20 14:35:54 +0000 2007",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "What's happening?!",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "about.twitter.com",
+                            "expanded_url": "https://about.twitter.com/",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/TAXQpsHa5X"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 6361,
+            "follow_request_sent": false,
+            "followers_count": 59274446,
+            "following": false,
+            "friends_count": 10,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 783214,
+            "id_str": "783214",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 87066,
+            "location": "everywhere",
+            "name": "Twitter",
+            "notifications": false,
+            "profile_background_color": "ACDED6",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/783214/1613754918",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1354479643882004483/Btnfm47p_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1354479643882004483/Btnfm47p_normal.jpg",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "F6F6F6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "Twitter",
+            "statuses_count": 14150,
+            "time_zone": null,
+            "translator_type": "regular",
+            "url": "https://t.co/TAXQpsHa5X",
+            "utc_offset": null,
+            "verified": true
+        }
+    },
+    {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Wed Feb 24 16:22:12 +0000 2021",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 1110562167147978752,
+                    "id_str": "1110562167147978752",
+                    "indices": [
+                        0,
+                        16
+                    ],
+                    "name": "Noah Evans",
+                    "screen_name": "ThisIsNoahEvans"
+                }
+            ]
+        },
+        "favorite_count": 705,
+        "favorited": false,
+        "geo": null,
+        "id": 1364611594504781829,
+        "id_str": "1364611594504781829",
+        "in_reply_to_screen_name": "ThisIsNoahEvans",
+        "in_reply_to_status_id": 1364607022331756545,
+        "in_reply_to_status_id_str": "1364607022331756545",
+        "in_reply_to_user_id": 1110562167147978752,
+        "in_reply_to_user_id_str": "1110562167147978752",
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "retweet_count": 19,
+        "retweeted": false,
+        "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+        "text": "@ThisIsNoahEvans we can always spot a fellow techie",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Feb 20 14:35:54 +0000 2007",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "What's happening?!",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "about.twitter.com",
+                            "expanded_url": "https://about.twitter.com/",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/TAXQpsHa5X"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 6361,
+            "follow_request_sent": false,
+            "followers_count": 59274446,
+            "following": false,
+            "friends_count": 10,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 783214,
+            "id_str": "783214",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 87066,
+            "location": "everywhere",
+            "name": "Twitter",
+            "notifications": false,
+            "profile_background_color": "ACDED6",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/783214/1613754918",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1354479643882004483/Btnfm47p_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1354479643882004483/Btnfm47p_normal.jpg",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "F6F6F6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "Twitter",
+            "statuses_count": 14150,
+            "time_zone": null,
+            "translator_type": "regular",
+            "url": "https://t.co/TAXQpsHa5X",
+            "utc_offset": null,
+            "verified": true
+        }
+    },
+    {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Wed Feb 24 16:20:16 +0000 2021",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 1342515707507077120,
+                    "id_str": "1342515707507077120",
+                    "indices": [
+                        0,
+                        14
+                    ],
+                    "name": "✨beau✨just a sza fan here.",
+                    "screen_name": "babyangleszaa"
+                },
+                {
+                    "id": 256883252,
+                    "id_str": "256883252",
+                    "indices": [
+                        32,
+                        36
+                    ],
+                    "name": "SZA",
+                    "screen_name": "sza"
+                }
+            ]
+        },
+        "favorite_count": 450,
+        "favorited": false,
+        "geo": null,
+        "id": 1364611110880608257,
+        "id_str": "1364611110880608257",
+        "in_reply_to_screen_name": "babyangleszaa",
+        "in_reply_to_status_id": 1364607573320740867,
+        "in_reply_to_status_id_str": "1364607573320740867",
+        "in_reply_to_user_id": 1342515707507077120,
+        "in_reply_to_user_id_str": "1342515707507077120",
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "retweet_count": 13,
+        "retweeted": false,
+        "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+        "text": "@babyangleszaa because you love @sza",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Feb 20 14:35:54 +0000 2007",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "What's happening?!",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "about.twitter.com",
+                            "expanded_url": "https://about.twitter.com/",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/TAXQpsHa5X"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 6361,
+            "follow_request_sent": false,
+            "followers_count": 59274446,
+            "following": false,
+            "friends_count": 10,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 783214,
+            "id_str": "783214",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 87066,
+            "location": "everywhere",
+            "name": "Twitter",
+            "notifications": false,
+            "profile_background_color": "ACDED6",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/783214/1613754918",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1354479643882004483/Btnfm47p_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1354479643882004483/Btnfm47p_normal.jpg",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "F6F6F6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "Twitter",
+            "statuses_count": 14150,
+            "time_zone": null,
+            "translator_type": "regular",
+            "url": "https://t.co/TAXQpsHa5X",
+            "utc_offset": null,
+            "verified": true
+        }
+    },
+    {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Wed Feb 24 16:19:22 +0000 2021",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 743983794173009920,
+                    "id_str": "743983794173009920",
+                    "indices": [
+                        0,
+                        7
+                    ],
+                    "name": "The 𝒲𝑜𝑜𝒻 on Wall Street",
+                    "screen_name": "PAVGOD"
+                }
+            ]
+        },
+        "favorite_count": 3672,
+        "favorited": false,
+        "geo": null,
+        "id": 1364610882366545929,
+        "id_str": "1364610882366545929",
+        "in_reply_to_screen_name": "PAVGOD",
+        "in_reply_to_status_id": 1364609021508915203,
+        "in_reply_to_status_id_str": "1364609021508915203",
+        "in_reply_to_user_id": 743983794173009920,
+        "in_reply_to_user_id_str": "743983794173009920",
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "retweet_count": 53,
+        "retweeted": false,
+        "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+        "text": "@PAVGOD we NEED you on our timeline",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Feb 20 14:35:54 +0000 2007",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "What's happening?!",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "about.twitter.com",
+                            "expanded_url": "https://about.twitter.com/",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/TAXQpsHa5X"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 6361,
+            "follow_request_sent": false,
+            "followers_count": 59274446,
+            "following": false,
+            "friends_count": 10,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 783214,
+            "id_str": "783214",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 87066,
+            "location": "everywhere",
+            "name": "Twitter",
+            "notifications": false,
+            "profile_background_color": "ACDED6",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/783214/1613754918",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1354479643882004483/Btnfm47p_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1354479643882004483/Btnfm47p_normal.jpg",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "F6F6F6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "Twitter",
+            "statuses_count": 14150,
+            "time_zone": null,
+            "translator_type": "regular",
+            "url": "https://t.co/TAXQpsHa5X",
+            "utc_offset": null,
+            "verified": true
+        }
+    },
+    {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Wed Feb 24 16:14:48 +0000 2021",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 1010296905254006784,
+                    "id_str": "1010296905254006784",
+                    "indices": [
+                        0,
+                        8
+                    ],
+                    "name": "em is newt",
+                    "screen_name": "OBR1ENS"
+                }
+            ]
+        },
+        "favorite_count": 3221,
+        "favorited": false,
+        "geo": null,
+        "id": 1364609734582665219,
+        "id_str": "1364609734582665219",
+        "in_reply_to_screen_name": "OBR1ENS",
+        "in_reply_to_status_id": 1364607003331600384,
+        "in_reply_to_status_id_str": "1364607003331600384",
+        "in_reply_to_user_id": 1010296905254006784,
+        "in_reply_to_user_id_str": "1010296905254006784",
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "retweet_count": 213,
+        "retweeted": false,
+        "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+        "text": "@OBR1ENS we need the Dylan content",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Feb 20 14:35:54 +0000 2007",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "What's happening?!",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "about.twitter.com",
+                            "expanded_url": "https://about.twitter.com/",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/TAXQpsHa5X"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 6361,
+            "follow_request_sent": false,
+            "followers_count": 59274446,
+            "following": false,
+            "friends_count": 10,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 783214,
+            "id_str": "783214",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 87066,
+            "location": "everywhere",
+            "name": "Twitter",
+            "notifications": false,
+            "profile_background_color": "ACDED6",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/783214/1613754918",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1354479643882004483/Btnfm47p_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1354479643882004483/Btnfm47p_normal.jpg",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "F6F6F6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "Twitter",
+            "statuses_count": 14150,
+            "time_zone": null,
+            "translator_type": "regular",
+            "url": "https://t.co/TAXQpsHa5X",
+            "utc_offset": null,
+            "verified": true
+        }
+    },
+    {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Wed Feb 24 16:14:48 +0000 2021",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 1344866201638354944,
+                    "id_str": "1344866201638354944",
+                    "indices": [
+                        0,
+                        10
+                    ],
+                    "name": "ً",
+                    "screen_name": "hoongaeul"
+                }
+            ]
+        },
+        "favorite_count": 18963,
+        "favorited": false,
+        "geo": null,
+        "id": 1364609734565912576,
+        "id_str": "1364609734565912576",
+        "in_reply_to_screen_name": "hoongaeul",
+        "in_reply_to_status_id": 1364608575520186372,
+        "in_reply_to_status_id_str": "1364608575520186372",
+        "in_reply_to_user_id": 1344866201638354944,
+        "in_reply_to_user_id_str": "1344866201638354944",
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "retweet_count": 2322,
+        "retweeted": false,
+        "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+        "text": "@hoongaeul on it 🤝",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Feb 20 14:35:54 +0000 2007",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "What's happening?!",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "about.twitter.com",
+                            "expanded_url": "https://about.twitter.com/",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/TAXQpsHa5X"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 6361,
+            "follow_request_sent": false,
+            "followers_count": 59274446,
+            "following": false,
+            "friends_count": 10,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 783214,
+            "id_str": "783214",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 87066,
+            "location": "everywhere",
+            "name": "Twitter",
+            "notifications": false,
+            "profile_background_color": "ACDED6",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/783214/1613754918",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1354479643882004483/Btnfm47p_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1354479643882004483/Btnfm47p_normal.jpg",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "F6F6F6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "Twitter",
+            "statuses_count": 14150,
+            "time_zone": null,
+            "translator_type": "regular",
+            "url": "https://t.co/TAXQpsHa5X",
+            "utc_offset": null,
+            "verified": true
+        }
+    },
+    {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Wed Feb 24 16:14:12 +0000 2021",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 250729831,
+                    "id_str": "250729831",
+                    "indices": [
+                        0,
+                        16
+                    ],
+                    "name": "Clarissa Explains It All 🗣✈️👩🏽‍💻",
+                    "screen_name": "Clarissa_Laskey"
+                }
+            ]
+        },
+        "favorite_count": 41,
+        "favorited": false,
+        "geo": null,
+        "id": 1364609584678244353,
+        "id_str": "1364609584678244353",
+        "in_reply_to_screen_name": "Clarissa_Laskey",
+        "in_reply_to_status_id": 1364607022897971201,
+        "in_reply_to_status_id_str": "1364607022897971201",
+        "in_reply_to_user_id": 250729831,
+        "in_reply_to_user_id_str": "250729831",
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "retweet_count": 2,
+        "retweeted": false,
+        "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+        "text": "@Clarissa_Laskey thank you, we needed this",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Feb 20 14:35:54 +0000 2007",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "What's happening?!",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "about.twitter.com",
+                            "expanded_url": "https://about.twitter.com/",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/TAXQpsHa5X"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 6361,
+            "follow_request_sent": false,
+            "followers_count": 59274446,
+            "following": false,
+            "friends_count": 10,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 783214,
+            "id_str": "783214",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 87066,
+            "location": "everywhere",
+            "name": "Twitter",
+            "notifications": false,
+            "profile_background_color": "ACDED6",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/783214/1613754918",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1354479643882004483/Btnfm47p_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1354479643882004483/Btnfm47p_normal.jpg",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "F6F6F6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "Twitter",
+            "statuses_count": 14150,
+            "time_zone": null,
+            "translator_type": "regular",
+            "url": "https://t.co/TAXQpsHa5X",
+            "utc_offset": null,
+            "verified": true
+        }
+    },
+    {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Wed Feb 24 16:03:17 +0000 2021",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": []
+        },
+        "favorite_count": 261574,
+        "favorited": false,
+        "geo": null,
+        "id": 1364606837534978052,
+        "id_str": "1364606837534978052",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "retweet_count": 14576,
+        "retweeted": false,
+        "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+        "text": "who should we follow today?",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Feb 20 14:35:54 +0000 2007",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "What's happening?!",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "about.twitter.com",
+                            "expanded_url": "https://about.twitter.com/",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/TAXQpsHa5X"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 6361,
+            "follow_request_sent": false,
+            "followers_count": 59274446,
+            "following": false,
+            "friends_count": 10,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 783214,
+            "id_str": "783214",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 87066,
+            "location": "everywhere",
+            "name": "Twitter",
+            "notifications": false,
+            "profile_background_color": "ACDED6",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/783214/1613754918",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1354479643882004483/Btnfm47p_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1354479643882004483/Btnfm47p_normal.jpg",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "F6F6F6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "Twitter",
+            "statuses_count": 14150,
+            "time_zone": null,
+            "translator_type": "regular",
+            "url": "https://t.co/TAXQpsHa5X",
+            "utc_offset": null,
+            "verified": true
+        }
+    },
+    {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Fri Feb 19 19:38:50 +0000 2021",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 773578328498372608,
+                    "id_str": "773578328498372608",
+                    "indices": [
+                        3,
+                        19
+                    ],
+                    "name": "Twitter Together",
+                    "screen_name": "TwitterTogether"
+                }
+            ]
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "geo": null,
+        "id": 1362849141248974853,
+        "id_str": "1362849141248974853",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "retweet_count": 1281,
+        "retweeted": false,
+        "retweeted_status": {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Tue Feb 09 14:43:58 +0000 2021",
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "expanded_url": "https://twitter.com/i/web/status/1359151057872580612",
+                        "indices": [
+                            117,
+                            140
+                        ],
+                        "url": "https://t.co/We6HGMEQOm"
+                    }
+                ],
+                "user_mentions": []
+            },
+            "favorite_count": 5381,
+            "favorited": false,
+            "geo": null,
+            "id": 1359151057872580612,
+            "id_str": "1359151057872580612",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "en",
+            "place": null,
+            "retweet_count": 1281,
+            "retweeted": false,
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "text": "We’ve seen an increase in attacks against Asian communities and individuals around the world. It’s important to kno… https://t.co/We6HGMEQOm",
+            "truncated": true,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Wed Sep 07 17:47:00 +0000 2016",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "We are a community of advocates, allies, champions, and Tweeps — working together. #UntilWeAllBelong",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "diversity.twitter.com",
+                                "expanded_url": "https://diversity.twitter.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ],
+                                "url": "https://t.co/cyeObjjssq"
+                            }
+                        ]
+                    }
+                },
+                "favourites_count": 2316,
+                "follow_request_sent": false,
+                "followers_count": 26039,
+                "following": false,
+                "friends_count": 184,
+                "geo_enabled": false,
+                "has_extended_profile": true,
+                "id": 773578328498372608,
+                "id_str": "773578328498372608",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": null,
+                "listed_count": 177,
+                "location": "",
+                "name": "Twitter Together",
+                "notifications": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/773578328498372608/1611768545",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1354481558300758016/CMRj6lfH_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1354481558300758016/CMRj6lfH_normal.jpg",
+                "profile_link_color": "1B95E0",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "protected": false,
+                "screen_name": "TwitterTogether",
+                "statuses_count": 1933,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": "https://t.co/cyeObjjssq",
+                "utc_offset": null,
+                "verified": true
+            }
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "text": "RT @TwitterTogether: We’ve seen an increase in attacks against Asian communities and individuals around the world. It’s important to know t…",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Feb 20 14:35:54 +0000 2007",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "What's happening?!",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "about.twitter.com",
+                            "expanded_url": "https://about.twitter.com/",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/TAXQpsHa5X"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 6361,
+            "follow_request_sent": false,
+            "followers_count": 59274446,
+            "following": false,
+            "friends_count": 10,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 783214,
+            "id_str": "783214",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 87066,
+            "location": "everywhere",
+            "name": "Twitter",
+            "notifications": false,
+            "profile_background_color": "ACDED6",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/783214/1613754918",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1354479643882004483/Btnfm47p_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1354479643882004483/Btnfm47p_normal.jpg",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "F6F6F6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "Twitter",
+            "statuses_count": 14150,
+            "time_zone": null,
+            "translator_type": "regular",
+            "url": "https://t.co/TAXQpsHa5X",
+            "utc_offset": null,
+            "verified": true
+        }
+    },
+    {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Fri Feb 19 17:19:31 +0000 2021",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 1289195341321924609,
+                    "id_str": "1289195341321924609",
+                    "indices": [
+                        0,
+                        10
+                    ],
+                    "name": "Hope⁷ シ",
+                    "screen_name": "sexckoo__"
+                }
+            ]
+        },
+        "favorite_count": 9124,
+        "favorited": false,
+        "geo": null,
+        "id": 1362814079274999809,
+        "id_str": "1362814079274999809",
+        "in_reply_to_screen_name": "sexckoo__",
+        "in_reply_to_status_id": 1362813236102320130,
+        "in_reply_to_status_id_str": "1362813236102320130",
+        "in_reply_to_user_id": 1289195341321924609,
+        "in_reply_to_user_id_str": "1289195341321924609",
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "retweet_count": 2266,
+        "retweeted": false,
+        "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+        "text": "@sexckoo__ exactly what we mean",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Feb 20 14:35:54 +0000 2007",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "What's happening?!",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "about.twitter.com",
+                            "expanded_url": "https://about.twitter.com/",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/TAXQpsHa5X"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 6361,
+            "follow_request_sent": false,
+            "followers_count": 59274446,
+            "following": false,
+            "friends_count": 10,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 783214,
+            "id_str": "783214",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 87066,
+            "location": "everywhere",
+            "name": "Twitter",
+            "notifications": false,
+            "profile_background_color": "ACDED6",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/783214/1613754918",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1354479643882004483/Btnfm47p_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1354479643882004483/Btnfm47p_normal.jpg",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "F6F6F6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "Twitter",
+            "statuses_count": 14150,
+            "time_zone": null,
+            "translator_type": "regular",
+            "url": "https://t.co/TAXQpsHa5X",
+            "utc_offset": null,
+            "verified": true
+        }
+    },
+    {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Fri Feb 19 17:12:54 +0000 2021",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 1204382034849861633,
+                    "id_str": "1204382034849861633",
+                    "indices": [
+                        0,
+                        16
+                    ],
+                    "name": "Lapaz Selleb",
+                    "screen_name": "RichmondAgbets1"
+                }
+            ]
+        },
+        "favorite_count": 255,
+        "favorited": false,
+        "geo": null,
+        "id": 1362812416313163777,
+        "id_str": "1362812416313163777",
+        "in_reply_to_screen_name": "RichmondAgbets1",
+        "in_reply_to_status_id": 1362809558834511875,
+        "in_reply_to_status_id_str": "1362809558834511875",
+        "in_reply_to_user_id": 1204382034849861633,
+        "in_reply_to_user_id_str": "1204382034849861633",
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "retweet_count": 7,
+        "retweeted": false,
+        "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+        "text": "@RichmondAgbets1 working on it",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Feb 20 14:35:54 +0000 2007",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "What's happening?!",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "about.twitter.com",
+                            "expanded_url": "https://about.twitter.com/",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/TAXQpsHa5X"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 6361,
+            "follow_request_sent": false,
+            "followers_count": 59274446,
+            "following": false,
+            "friends_count": 10,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 783214,
+            "id_str": "783214",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 87066,
+            "location": "everywhere",
+            "name": "Twitter",
+            "notifications": false,
+            "profile_background_color": "ACDED6",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/783214/1613754918",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1354479643882004483/Btnfm47p_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1354479643882004483/Btnfm47p_normal.jpg",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "F6F6F6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "Twitter",
+            "statuses_count": 14150,
+            "time_zone": null,
+            "translator_type": "regular",
+            "url": "https://t.co/TAXQpsHa5X",
+            "utc_offset": null,
+            "verified": true
+        }
+    },
+    {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Fri Feb 19 17:11:30 +0000 2021",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 1347076600857124868,
+                    "id_str": "1347076600857124868",
+                    "indices": [
+                        0,
+                        14
+                    ],
+                    "name": "Seungmin rt bot :D| seungmin loves you too! | ia",
+                    "screen_name": "kimSeungm0b0t"
+                }
+            ]
+        },
+        "favorite_count": 486,
+        "favorited": false,
+        "geo": null,
+        "id": 1362812065438646276,
+        "id_str": "1362812065438646276",
+        "in_reply_to_screen_name": "kimSeungm0b0t",
+        "in_reply_to_status_id": 1362808461000470530,
+        "in_reply_to_status_id_str": "1362808461000470530",
+        "in_reply_to_user_id": 1347076600857124868,
+        "in_reply_to_user_id_str": "1347076600857124868",
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "retweet_count": 16,
+        "retweeted": false,
+        "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+        "text": "@kimSeungm0b0t great Tweet",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Feb 20 14:35:54 +0000 2007",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "What's happening?!",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "about.twitter.com",
+                            "expanded_url": "https://about.twitter.com/",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/TAXQpsHa5X"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 6361,
+            "follow_request_sent": false,
+            "followers_count": 59274446,
+            "following": false,
+            "friends_count": 10,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 783214,
+            "id_str": "783214",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 87066,
+            "location": "everywhere",
+            "name": "Twitter",
+            "notifications": false,
+            "profile_background_color": "ACDED6",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/783214/1613754918",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1354479643882004483/Btnfm47p_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1354479643882004483/Btnfm47p_normal.jpg",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "F6F6F6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "Twitter",
+            "statuses_count": 14150,
+            "time_zone": null,
+            "translator_type": "regular",
+            "url": "https://t.co/TAXQpsHa5X",
+            "utc_offset": null,
+            "verified": true
+        }
+    },
+    {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Fri Feb 19 17:10:33 +0000 2021",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 821674113248952320,
+                    "id_str": "821674113248952320",
+                    "indices": [
+                        0,
+                        14
+                    ],
+                    "name": "CONSTANCE™",
+                    "screen_name": "ConstanceSaal"
+                }
+            ]
+        },
+        "favorite_count": 1056,
+        "favorited": false,
+        "geo": null,
+        "id": 1362811826577276929,
+        "id_str": "1362811826577276929",
+        "in_reply_to_screen_name": "ConstanceSaal",
+        "in_reply_to_status_id": 1362807685327048706,
+        "in_reply_to_status_id_str": "1362807685327048706",
+        "in_reply_to_user_id": 821674113248952320,
+        "in_reply_to_user_id_str": "821674113248952320",
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "retweet_count": 50,
+        "retweeted": false,
+        "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+        "text": "@ConstanceSaal 2 likes is a lot",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Feb 20 14:35:54 +0000 2007",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "What's happening?!",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "about.twitter.com",
+                            "expanded_url": "https://about.twitter.com/",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/TAXQpsHa5X"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 6361,
+            "follow_request_sent": false,
+            "followers_count": 59274446,
+            "following": false,
+            "friends_count": 10,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 783214,
+            "id_str": "783214",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 87066,
+            "location": "everywhere",
+            "name": "Twitter",
+            "notifications": false,
+            "profile_background_color": "ACDED6",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/783214/1613754918",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1354479643882004483/Btnfm47p_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1354479643882004483/Btnfm47p_normal.jpg",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "F6F6F6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "Twitter",
+            "statuses_count": 14150,
+            "time_zone": null,
+            "translator_type": "regular",
+            "url": "https://t.co/TAXQpsHa5X",
+            "utc_offset": null,
+            "verified": true
+        }
+    },
+    {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Fri Feb 19 17:02:59 +0000 2021",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 1110562167147978752,
+                    "id_str": "1110562167147978752",
+                    "indices": [
+                        0,
+                        16
+                    ],
+                    "name": "Noah Evans",
+                    "screen_name": "ThisIsNoahEvans"
+                }
+            ]
+        },
+        "favorite_count": 416,
+        "favorited": false,
+        "geo": null,
+        "id": 1362809921079754755,
+        "id_str": "1362809921079754755",
+        "in_reply_to_screen_name": "ThisIsNoahEvans",
+        "in_reply_to_status_id": 1362807439956078592,
+        "in_reply_to_status_id_str": "1362807439956078592",
+        "in_reply_to_user_id": 1110562167147978752,
+        "in_reply_to_user_id_str": "1110562167147978752",
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "retweet_count": 8,
+        "retweeted": false,
+        "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+        "text": "@ThisIsNoahEvans and save the other one for tomorrow",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Feb 20 14:35:54 +0000 2007",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "What's happening?!",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "about.twitter.com",
+                            "expanded_url": "https://about.twitter.com/",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/TAXQpsHa5X"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 6361,
+            "follow_request_sent": false,
+            "followers_count": 59274446,
+            "following": false,
+            "friends_count": 10,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 783214,
+            "id_str": "783214",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 87066,
+            "location": "everywhere",
+            "name": "Twitter",
+            "notifications": false,
+            "profile_background_color": "ACDED6",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/783214/1613754918",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1354479643882004483/Btnfm47p_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1354479643882004483/Btnfm47p_normal.jpg",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "F6F6F6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "Twitter",
+            "statuses_count": 14150,
+            "time_zone": null,
+            "translator_type": "regular",
+            "url": "https://t.co/TAXQpsHa5X",
+            "utc_offset": null,
+            "verified": true
+        }
+    },
+    {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Fri Feb 19 17:02:59 +0000 2021",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 776337554962518016,
+                    "id_str": "776337554962518016",
+                    "indices": [
+                        0,
+                        11
+                    ],
+                    "name": "ऋतिका",
+                    "screen_name": "Vritika385"
+                }
+            ]
+        },
+        "favorite_count": 1037,
+        "favorited": false,
+        "geo": null,
+        "id": 1362809921016856576,
+        "id_str": "1362809921016856576",
+        "in_reply_to_screen_name": "Vritika385",
+        "in_reply_to_status_id": 1362807552401047553,
+        "in_reply_to_status_id_str": "1362807552401047553",
+        "in_reply_to_user_id": 776337554962518016,
+        "in_reply_to_user_id_str": "776337554962518016",
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "retweet_count": 22,
+        "retweeted": false,
+        "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+        "text": "@Vritika385 clearly it was too good",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Feb 20 14:35:54 +0000 2007",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "What's happening?!",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "about.twitter.com",
+                            "expanded_url": "https://about.twitter.com/",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/TAXQpsHa5X"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 6361,
+            "follow_request_sent": false,
+            "followers_count": 59274446,
+            "following": false,
+            "friends_count": 10,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 783214,
+            "id_str": "783214",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 87066,
+            "location": "everywhere",
+            "name": "Twitter",
+            "notifications": false,
+            "profile_background_color": "ACDED6",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/783214/1613754918",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1354479643882004483/Btnfm47p_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1354479643882004483/Btnfm47p_normal.jpg",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "F6F6F6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "Twitter",
+            "statuses_count": 14150,
+            "time_zone": null,
+            "translator_type": "regular",
+            "url": "https://t.co/TAXQpsHa5X",
+            "utc_offset": null,
+            "verified": true
+        }
+    },
+    {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Fri Feb 19 16:58:14 +0000 2021",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 1307357944225427457,
+                    "id_str": "1307357944225427457",
+                    "indices": [
+                        0,
+                        14
+                    ],
+                    "name": "Battery Voltas",
+                    "screen_name": "BatteryVoltas"
+                }
+            ]
+        },
+        "favorite_count": 717,
+        "favorited": false,
+        "geo": null,
+        "id": 1362808724881084418,
+        "id_str": "1362808724881084418",
+        "in_reply_to_screen_name": "BatteryVoltas",
+        "in_reply_to_status_id": 1362807463746109442,
+        "in_reply_to_status_id_str": "1362807463746109442",
+        "in_reply_to_user_id": 1307357944225427457,
+        "in_reply_to_user_id_str": "1307357944225427457",
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "retweet_count": 11,
+        "retweeted": false,
+        "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+        "text": "@BatteryVoltas looking at our drafts every morning",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Feb 20 14:35:54 +0000 2007",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "What's happening?!",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "about.twitter.com",
+                            "expanded_url": "https://about.twitter.com/",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/TAXQpsHa5X"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 6361,
+            "follow_request_sent": false,
+            "followers_count": 59274446,
+            "following": false,
+            "friends_count": 10,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 783214,
+            "id_str": "783214",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 87066,
+            "location": "everywhere",
+            "name": "Twitter",
+            "notifications": false,
+            "profile_background_color": "ACDED6",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/783214/1613754918",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1354479643882004483/Btnfm47p_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1354479643882004483/Btnfm47p_normal.jpg",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "F6F6F6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "Twitter",
+            "statuses_count": 14150,
+            "time_zone": null,
+            "translator_type": "regular",
+            "url": "https://t.co/TAXQpsHa5X",
+            "utc_offset": null,
+            "verified": true
+        }
+    },
+    {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Fri Feb 19 16:58:14 +0000 2021",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 1332172272111587328,
+                    "id_str": "1332172272111587328",
+                    "indices": [
+                        0,
+                        13
+                    ],
+                    "name": "𝐽𝑖𝑛𝑥 ⛈",
+                    "screen_name": "LonzoFanClub"
+                }
+            ]
+        },
+        "favorite_count": 471,
+        "favorited": false,
+        "geo": null,
+        "id": 1362808724876898304,
+        "id_str": "1362808724876898304",
+        "in_reply_to_screen_name": "LonzoFanClub",
+        "in_reply_to_status_id": 1362807312113684482,
+        "in_reply_to_status_id_str": "1362807312113684482",
+        "in_reply_to_user_id": 1332172272111587328,
+        "in_reply_to_user_id_str": "1332172272111587328",
+        "is_quote_status": false,
+        "lang": "und",
+        "place": null,
+        "retweet_count": 7,
+        "retweeted": false,
+        "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+        "text": "@LonzoFanClub no",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Feb 20 14:35:54 +0000 2007",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "What's happening?!",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "about.twitter.com",
+                            "expanded_url": "https://about.twitter.com/",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/TAXQpsHa5X"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 6361,
+            "follow_request_sent": false,
+            "followers_count": 59274446,
+            "following": false,
+            "friends_count": 10,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 783214,
+            "id_str": "783214",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 87066,
+            "location": "everywhere",
+            "name": "Twitter",
+            "notifications": false,
+            "profile_background_color": "ACDED6",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/783214/1613754918",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1354479643882004483/Btnfm47p_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1354479643882004483/Btnfm47p_normal.jpg",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "F6F6F6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "Twitter",
+            "statuses_count": 14150,
+            "time_zone": null,
+            "translator_type": "regular",
+            "url": "https://t.co/TAXQpsHa5X",
+            "utc_offset": null,
+            "verified": true
+        }
+    }
+]
