@@ -78,7 +78,7 @@ def update_tweets_table(json_list, last_updated_dt, db_object):
 # given multiple elements from Twitter official archive
 def update_tweets_table_from_archive(tweets_list, user_id, last_updated_dt, db_object):
     distinct_tweets = []
-    elements = ['id_str', 'created_at', 'favorite_count', 'favorited', 'in_reply_to_status_id_str', 'in_reply_to_user_id_str', 'in_reply_to_screen_name', 'lang', 'retweet_count', 'retweeted', 'source', 'full_text']
+    elements = ['id_str', 'created_at', 'favorite_count', 'favorited', 'in_reply_to_status_id_str', 'in_reply_to_user_id_str', 'in_reply_to_screen_name', 'lang', 'retweet_count', 'retweeted', 'source', 'text']
     for t in tweets_list:
         temp = []
         for f in elements:
