@@ -1,5 +1,4 @@
 dash_core_components==1.0.0
-pkuseg==0.0.22
 plotly==4.8.1
 wordcloud==1.7.0
 pandas==0.25.3

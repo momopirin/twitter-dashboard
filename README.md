@@ -28,7 +28,7 @@ Pending plots/data tables:
 First, clone this repository and open a terminal inside the root folder.
 
 Create and activate a new virtual environment (recommended) by running
-the following: (note: Python > 3.6.0 required, or there will be compatibility problems)
+the following: ~~(note: Python > 3.6.0 required, or there will be compatibility problems)~~ **Recommend: Python 3.6 - you may run into dependency issues with 3.7 or above**
 
 ```bash
 
@@ -44,7 +44,7 @@ Install the requirements:
 pip install -r requirements.txt
 ```
 
-Tweets should be saved in a format similar to `sample_tweets.json`. Note: the file contains a list of json objects directly obtained through Twitter API. If you have tweets from the official Twitter archive, please prepare it in the same manner. You may also use `clean_tweet_js.py` to help convert the file into the acceptable format:
+Tweets should be saved in a format similar to `sample_tweets.json`. If interested, you may go ahead and run the app by typing `python app.py` and it should show the content from the `sample_tweets.json`. Note: the file contains a list of json objects directly obtained through Twitter API. If you have tweets from the official Twitter archive, please prepare it in the same manner. You may also use `clean_tweet_js.py` to help convert the file into the acceptable format:
 
 ```bash
 python clean_tweet_js.py -lp /path/to/tweet.js -o /path/to/output
